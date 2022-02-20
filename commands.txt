@@ -1,0 +1,11 @@
+django-admin startproject orderfiller .
+py manage.py startapp app
+Register app in settings.py
+pip install djangorestframework
+Make Models
+py manage.py makemigrations
+py manage.py migrate
+py manage.py createsuperuser
+py manage.py runserver
+Register models in admin.py
+
