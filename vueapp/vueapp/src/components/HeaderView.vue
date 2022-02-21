@@ -1,12 +1,14 @@
 <template>
 <div>
-  <h1>Orders Component</h1>
+  <p>Header</p>
+  <h1>Header Component</h1>
+  <p>Header end</p>
 </div>
 </template>
 
 <script>
 export default {
-  name: "OrderComponent"
+  name: "HeaderComponent"
 }
 </script>
 
